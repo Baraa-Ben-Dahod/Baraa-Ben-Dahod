@@ -1,34 +1,35 @@
 # Hi, I'm Baraa 👋
 
 🎓 Computer Science student at the Technion (Israel Institute of Technology)  
-💻 Passionate about **software engineering, systems programming, and algorithms**  
-⚡ Skilled in **Modern C++**, Python, and low-level programming (Assembly, RISC-V)  
+💻 Passionate about **systems programming, embedded concepts, and low-level development**  
+⚡ Skilled in **C, Modern C++**, Python, and Assembly (RISC-V)  
 🔬 Strong background in **data structures, algorithms, and performance optimization**
 
 ---
 
 ## 🚀 Featured Projects
-- [**Data Structures**](https://github.com/Baraa-Ben-Dahod/Data-Structures):  
-  Implementations of AVL trees, hash tables, and complexity analysis with test harnesses.
+- [**System Programming Projects (C/C++)**](https://github.com/Baraa-Ben-Dahod/Introduction-to-Systems-Programming-234124):  
+  Modular projects including a blockchain-like ledger, task manager, and text-based game.  
+  → Focused on memory management, debugging, and low-level design.
 
-- [**Queueing Theory Simulators**](https://github.com/Baraa-Ben-Dahod/Server-networking-simulator):  
-  Event-driven M/M/1 simulators in C++ and Python for throughput and latency analysis.
+- [**Queueing Theory Simulators (C++/Python)**](https://github.com/Baraa-Ben-Dahod/Server-networking-simulator):  
+  Event-driven M/M/1 simulators analyzing throughput and latency.  
+  → Applied performance analysis and system efficiency techniques.
 
-- [**RSA Cryptography**](https://github.com/Baraa-Ben-Dahod/RSA):  
-  Python implementation of key generation, encryption, and decryption.
+- [**Advanced Data Structures (C++)**](https://github.com/Baraa-Ben-Dahod/Data-Structures):  
+  AVL trees, hash tables, and complexity analysis.  
+  → Emphasis on scalability and clean modern C++ style.
 
-- [**Basic Algorithms**](https://github.com/Baraa-Ben-Dahod/Basic-algorithms):  
-  Graph algorithms (BFS, DFS, Kruskal, etc.) in Python.
-
-- [**Systems Programming Projects**](https://github.com/Baraa-Ben-Dahod/Introduction-to-Systems-Programming-234124):  
-  Modular C++ projects including a blockchain-like ledger, task manager, and text-based game.
+- [**RSA Cryptography (Python)**](https://github.com/Baraa-Ben-Dahod/RSA):  
+  Key generation, encryption, and decryption using modular arithmetic.  
+  → Focused on correctness and clarity.
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** Modern C++, Python, Assembly (RISC-V)  
-- **Tools:** Linux (Bash), Git/GitHub  
-- **Core Areas:** Data Structures, Algorithms, Systems Programming, Networking Basics  
+- **Languages:** C, Modern C++, Python, Assembly (RISC-V)  
+- **Systems & Tools:** Linux (Bash), Git/GitHub, debugging tools  
+- **Core Areas:** Systems programming, embedded concepts, low-level debugging, algorithms  
 
 ---
 
@@ -37,4 +38,5 @@
 - [GitHub](https://github.com/Baraa-Ben-Dahod)
 
 ---
-⭐️ *Always eager to learn, collaborate, and build impactful software projects.*
+⭐️ *Eager to learn, collaborate, and contribute to real-world system-level engineering projects.*
+
