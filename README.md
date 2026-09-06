@@ -7,7 +7,7 @@ An aspiring **Systems & AI Software Engineer** studying Computer Science at **Te
 ### 🎓 Academic Status
 * **University:** Technion - Israel Institute of Technology.
 * **Degree:** B.Sc. in Computer Science.
-* **GPA:** **85%**.
+* **GPA:** **86%**.
 * **Expected Graduation:** **2027** (**Remaining: 1 Year / 2 Semesters** - fully eligible for student and intern roles)
 
 ---
